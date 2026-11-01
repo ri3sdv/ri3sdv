@@ -10,7 +10,7 @@
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-SoulSociety-3c9)
 
-<h3> DevOps, Cloud & DevSecOps Engineer</h3>
+<h3> DevSecOps, Cloud , SRE</h3>
 
 * 🚀 **Building** my career path in **DevOps, Cloud & Platform Engineering**
 * 🌱 Learning **automation, security, infrastructure & scalable systems**
