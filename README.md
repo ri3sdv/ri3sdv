@@ -80,7 +80,7 @@
 <table align="center">
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.shion.dev/api?username=l4code&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.shion.dev/api?username=ri3sdv&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true" />
 </td>
 
 <td width="50%">
@@ -91,7 +91,7 @@
 <tr>
 <td colspan="2" align="center">
 <br>
-<img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=l4code&theme=ambient_gradient&hide_border=true&layout=compact" />
+<img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ri3sdv&theme=ambient_gradient&hide_border=true&layout=compact" />
 </td>
 </tr>
 </table>
