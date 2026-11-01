@@ -84,7 +84,7 @@
 </td>
 
 <td width="50%">
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=l4code&theme=ambient_gradient&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=ri3sdv&theme=ambient_gradient&hide_border=true" />
 </td>
 </tr>
 
